@@ -101,3 +101,8 @@ Developed by AlexeyVolovinin
 
 [Support author on Pinterest](http://sites.google.com/view/color-mosaic-coloring-pages/%D1%85%D0%B0%D1%82%D0%BD%D1%8F%D1%8F-%D1%81%D1%82%D0%B0%D1%80%D0%BE%D0%BD%D0%BA%D0%B0)
 
+# Plans
+- Free AI Pins Generator
+- Pins Creator tool
+- WebUI
+- Publishing Sheduler
