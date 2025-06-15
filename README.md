@@ -36,11 +36,11 @@ cd pinterest-automatic-upload
 pip install -r requirements.txt
 ```
 ### ⚙️ Install chrome driver
-[Driver](https://googlechromelabs.github.io/chrome-for-testing/)
-You **don't need spicify chrome executable, app do this automaticly**
+- [Driver](https://googlechromelabs.github.io/chrome-for-testing/)
+- You **don't need spicify chrome executable, app do this automaticly**
 ### 📑 Requirements
-Python >3.7
-Chromium based browser: Brave, Chrome, Chromium is supported
+- Python >3.7
+- Chromium based browser: Brave, Chrome, Chromium is supported
 ### 🏁 Run
 ```bash
 python main.py
@@ -91,6 +91,10 @@ Select 0 for finding files on PC and 1 for selecting pins from list_pins.json
 | date        | -                    | -         | 01/01/2025 12:00, 01/01/2025 12:00 or ""                                                                                                                                                                         |
 # 💯🚀🎯 You are done
 Developed by AlexeyVolovinin
+
 [Github AlexeyVolovinin](https://github.com/AlexeyVolovinin)
+
 [Pinterest AlexeyVolovinin](https://de.pinterest.com/atomacssowtware/)
+
 [Support author on Pinterest](http://sites.google.com/view/color-mosaic-coloring-pages/%D1%85%D0%B0%D1%82%D0%BD%D1%8F%D1%8F-%D1%81%D1%82%D0%B0%D1%80%D0%BE%D0%BD%D0%BA%D0%B0)
+
