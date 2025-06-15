@@ -1,3 +1,6 @@
+# Table of contens
+[🚀 Fast Install 🚀](https://github.com/AlexeyVolovinin/pinterest-bulk-upload#-fast-install)
+
 # Pinterest Bulk Pin Uploader | Scheduler | Automated Pin Publishing Tool
 ⚠️ I encountered **pinterest bulk upload pins error**. I spent a long time figuring it out and getting various errors. When I finally **get success message, pins weren't published**. And in my application solved:
 - ✅ Fixes **bulk upload errors** (pinterest bulk pins upload failed) 
@@ -69,7 +72,7 @@ Select 0 for finding files on PC and 1 for selecting pins from list_pins.json
   "pin": [
     {
       "pinboard": "Coloring Pages!",
-      "file_path": "/home/user/Изображения/pin.jpg",
+      "file_path": "/home/user/Pictures/pin.jpg",
       "title": "Wallpapers and posters COLORING BOOKS for children and adults. Coloring book for children and adults",
       "description": "Wallpapers and posters COLORING BOOKS for children and adults. Coloring book for children and adultsWallpapers and posters COLORING BOOKS for children and adults. Coloring book for children and adults. Flower",
       "alt_text": "Wallpapers and posters COLORING BOOKS",
@@ -81,14 +84,14 @@ Select 0 for finding files on PC and 1 for selecting pins from list_pins.json
 ```
 
 | Field       | Limitations, symbols | Necessity | Example                                                                                                                                                                                                          |
-| ----------- | -------------------- | --------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| file_path   | -                    | required  | /home/user/Изображения/pin.jpg                                                                                                                                                                                   |
-| pinboard    | -                    | required  | Coloring Pages!                                                                                                                                                                                                  |
-| title       | up to 100            | required  | Wallpapers and posters COLORING BOOKS for children and adults. Coloring book for children and adults                                                                                                             |
-| description | up to 500            | required  | Wallpapers and posters COLORING BOOKS for children and adults. Coloring book for children and adultsWallpapers and posters COLORING BOOKS for children and adults. Coloring book for children and adults. Flower |
-| alt_text    | up to 500            | -         | Wallpapers and posters COLORING BOOKS                                                                                                                                                                            |
-| link        | -                    | -         | https://ru.pinterest.com/atomacssowtware/coloring-pages/                                                                                                                                                         |
-| date        | -                    | -         | 01/01/2025 12:00, 01/01/2025 12:00 or ""                                                                                                                                                                         |
+| :---------- | :------------------: | :-------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| file_path   |          -           | required  | /home/user/Pictures/pin.jpg                                                                                                                                                                                      |
+| pinboard    |          -           | required  | Coloring Pages!                                                                                                                                                                                                  |
+| title       |      up to 100       | required  | Wallpapers and posters COLORING BOOKS for children and adults. Coloring book for children and adults                                                                                                             |
+| description |      up to 500       | required  | Wallpapers and posters COLORING BOOKS for children and adults. Coloring book for children and adultsWallpapers and posters COLORING BOOKS for children and adults. Coloring book for children and adults. Flower |
+| alt_text    |      up to 500       |     -     | Wallpapers and posters COLORING BOOKS                                                                                                                                                                            |
+| link        |          -           |     -     | https://ru.pinterest.com/atomacssowtware/coloring-pages/                                                                                                                                                         |
+| date        |          -           |     -     | 01/01/2025 12:00, 01/01/2025 12:00 or ""                                                                                                                                                                         |
 # 💯🚀🎯 You are done
 Developed by AlexeyVolovinin
 
