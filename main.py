@@ -280,7 +280,6 @@ def data_file() -> str:
                 files_list.append(file)
                 print(f'{file_number} - {os.path.abspath(file)}')
         answer = input('File number: ')
-        cls()  
         if not answer.isdigit():  
             print(f'Answer must be an integer.')
         elif int(answer) == 0:  
